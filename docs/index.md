@@ -19,7 +19,7 @@ Riche de mon expérience de pédagogue auprès des enfants en particulier et des
 
 [Informations pratiques](./pages/informations/contacts/){ .md-button style="float: left;"}
 
-[Visio conférence](https://meet.jit.si/SophroMatheyzen){ .md-button .md-button--primary target="_blank" style="float: right;"} 
+[Visio conférence](https://meet.jit.si/SophroMatheyzen){ .md-button target="_blank" style="float: right;"} 
 
 
 
