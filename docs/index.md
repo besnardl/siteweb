@@ -4,10 +4,6 @@ hide:
   - navigation
 ---
 
-
-![logo](https://user-images.githubusercontent.com/113187227/214500518-2af76e9b-7a04-429d-b6c8-d9c426d3c8ed.png){width="200" style="float: right;"}
-
-
 # **Envie de retrouver calme, confiance, harmonie et optimisme ?**
 
 ---
