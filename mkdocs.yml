@@ -54,15 +54,15 @@ theme:
     palette:
         primary: white
         accent: blue
-    logo: https://github.com/Konsilion/website/blob/master/media/logo.png?raw=true
-    favicon: https://user-images.githubusercontent.com/99027754/209714307-ab199f0d-509b-404f-9dd8-d8bd8fb99e37.png
+    logo: https://user-images.githubusercontent.com/113187227/214500518-2af76e9b-7a04-429d-b6c8-d9c426d3c8ed.png
+    favicon: https://user-images.githubusercontent.com/113187227/214500518-2af76e9b-7a04-429d-b6c8-d9c426d3c8ed.png
 
 
 
 # MENTIONS 
 # -------------------------------------------------
 
-copyright: Une plateforme open-source codé avec ❤ par Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0 <br> Un grand merci à <u><a href="https://www.multi.coop/" target="_blank">multi</a></u> et <u><a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">mkdocs-material</a></u> pour le support technique 
+copyright: Un site Web développé avec ❤ par Konsilion
 
 
 # /!\   NE PAS MODIFIER CI-DESSOUS   /!\
