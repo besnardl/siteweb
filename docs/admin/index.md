@@ -3,7 +3,7 @@ title: Admin
 hide:
   - toc
   - navigation
-version: 0.9
+version: 1.0
 ---
 
 <script defer>

@@ -7,25 +7,23 @@
 
 nav:
 
-    - Accueil: index.md
-            
-    - Ingénierie collaborative:
+  - Accueil: index.md
+  
+  - Sophrologie ?: pages/informations/sophrologie.md
+  
+  - Séances: pages/seances/accueil.md
+  
+  - Ateliers: pages/ateliers/accueil.md
+  
+  - Accompagnements spécifiques: pages/accompagnements/accueil.md
+  
+  - Blog:
+  
+      - Mieux comprendre la sophrologie: pages/blog/sophro_intro.md
+      
+  - Contacts: pages/informations/contacts.md
+      
 
-        - De quoi parlons nous ?: pages/presentation.md
-
-        - Katalog - CMS: pages/katalog.md
-
-        - Konnect - DataScience: https://konnect.konsilion.fr
-
-    - Recherche & Développement:
-
-        - Projets: katalog/projets/home.md
-
-        - Tâches: katalog/taches/home.md
-
-        - Ressources: katalog/ressources/home.md
-        
-    - À propos: pages/informations.md
 
 
 
@@ -34,7 +32,7 @@ nav:
 
 site_name: Matheyzen - Sophrologie et Harmonie
 site_author: Nicolas Brémond
-site_description: Développer, proposer et promouvoir la Low-technologie.
+site_description: Envie de retrouver calme, confiance, harmonie et optimisme ?  De se projeter avec regard positif sur sa vie et les autres ? La sophrologie caycédienne peut vous y aider.
 site_url: https://besnardl.github.io/website
 repo_url: https://github.com/besnardl/website
 
