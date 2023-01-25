@@ -12,12 +12,9 @@
 }
 
 .md-button {
-    background-color: rgba(1,1,1,0.7);
+    background-color: rgba(255,255,255,0.8);
 }
 
-.md-button--primary {
-    border: 3px solid black !important;
-}
 
 .img-loic {
     width: 200px;
