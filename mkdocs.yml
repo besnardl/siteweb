@@ -53,8 +53,8 @@ theme:
     language: fr
     palette:
         primary: white
-        accent: blue
-    logo: https://user-images.githubusercontent.com/113187227/214500518-2af76e9b-7a04-429d-b6c8-d9c426d3c8ed.png
+        accent: purple
+    logo: https://user-images.githubusercontent.com/113187227/214503137-f2dfe3ee-5949-41a7-8e68-cca6b27b5759.png
     favicon: https://user-images.githubusercontent.com/113187227/214500518-2af76e9b-7a04-429d-b6c8-d9c426d3c8ed.png
 
 
