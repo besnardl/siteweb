@@ -12,7 +12,7 @@ C’est une méthode psychocorporelle simple qui combine des exercices de respir
 
 === "Mon parcours"
 
-    ![mon-profil](https://matheyzen.fr/1.0/photos/mon_parcours.jpg){.img-loic}
+    ![mon-profil](https://github.com/besnardl/siteweb/blob/master/media/mon_parcours.jpg?raw=true){.img-loic}
 
     Enseignante dans le primaire depuis plus de vingt-cinq ans, j’ai eu envie de me former à la sophrologie pour retrouver un équilibre tant physique, que mental et émotionnel, et ainsi renforcer mes capacités de confiance, d’harmonie, d’optimisme dans ma vie professionnelle et personnelle.
 
