@@ -24,7 +24,7 @@ Riche de mon expérience de pédagogue auprès des enfants en particulier et des
 
 <style>
    body{ 
-       background-image: url(https://img.freepik.com/free-vector/illustration-human-avatar-with-environment_53876-17627.jpg?w=1380&t=st=1674426096~exp=1674426696~hmac=2a6505eb181a5ab25706e9bbe73c2701cd336aa978023673872f7c15ff97cd55);
+       background-image: url(https://img.freepik.com/free-photo/beautiful-shot-sunrise-country-road-netherlands_181624-29198.jpg?w=1380&t=st=1674630226~exp=1674630826~hmac=203db8639c820a752e099d73c9ba0bf0987d5c86303e572e88a454b8ca64289e);
         background-repeat: no-repeat;
         background-position: center;background-size: cover; 
     }
