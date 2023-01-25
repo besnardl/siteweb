@@ -5,15 +5,8 @@ hide:
 ---
 
 
-![logo-accueil](https://user-images.githubusercontent.com/99027754/209585047-f1e419f1-8f55-43d2-bfc6-6d51aec13ecf.png){style="max-width: 100%; width: 450px"}
+![logo](https://user-images.githubusercontent.com/113187227/214500518-2af76e9b-7a04-429d-b6c8-d9c426d3c8ed.png){width="200" style="float: right;"}
 
----
-hide:
-  - navigation
-  - toc
----
-
-<img src="logo.png" alt="drawing" width="200" style="float: right;"/>
 
 # **Envie de retrouver calme, confiance, harmonie et optimisme ?**
 
@@ -24,13 +17,8 @@ La **sophrologie caycédienne** vous accompagne à vous projeter avec regard pos
 
 Riche de mon expérience de pédagogue auprès des enfants en particulier et des adolescents, de ma pratique en sophrologie et en yoga auprès d’adultes, je peux vous accompagner à réduire votre stress au travail, améliorer votre sommeil, aider à préparer des examens ou des moments difficiles, mieux gérer vos émotions.
 
-<br>
 
-* <a href="./informations/contacts/" title="home-link" class="md-button">Informations pratiques</a>
 
-* <a href="./informations/visio/" title="home-link" class="md-button">Les liens de viso conférence</a>
-
-<br>
 
 
 
