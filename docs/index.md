@@ -26,7 +26,7 @@ Riche de mon expérience de pédagogue auprès des enfants en particulier et des
     }
     .md-container {
         background: rgb(255,255,255);
-        background: linear-gradient(180deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.9) 15%, rgba(255,255,255,0.75) 60%, rgba(255,255,255,0.1) 100%);
+        background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 15%, rgba(255,255,255,0.85) 60%, rgba(255,255,255,0.1) 100%);
     }
     .md-content{
         margin: 50px auto;
