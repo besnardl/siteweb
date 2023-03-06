@@ -17,9 +17,7 @@ hide:
 
 **Informations pratiques**
  
-* 2 Cours collectifs le mercredi après-midi 5 personnes maximum. (*10 € la séance avec un engagement au trimestre*)
-    * 17 h 30 
-    * 18 h 45 
+* 2 Cours collectifs le mercredi après-midi 5 personnes maximum. (*15 € la séance avec un engagement au trimestre*)
  
 * Séances individuelles sur rendez-vous 
     * *50 € la séance - 45 € engagement sur forfaits de 4 à 6 séances*
