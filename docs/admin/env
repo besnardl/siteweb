@@ -15,6 +15,7 @@ plugins:
   - macros
 
 markdown_extensions:
+  - footnotes
   - tables
   - admonition
   - pymdownx.details
