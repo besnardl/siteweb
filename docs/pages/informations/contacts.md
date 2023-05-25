@@ -10,8 +10,8 @@ hide:
 **Corinne Grignou**
 
 * <u>E-mail</u> : sophro.cg@gmail.com
-* <u></u> : 06 27 23 61 81
-* <u>Lieu</u> : La Rampe à Nantes en Rattier 38 350 - Résidence Atticora - Chemin des Rivaux - *Parking à proximité*
+* <u>Téléphone</u> : 06 27 23 61 81
+* <u>Lieu</u> : 46 grande rue, 38350 La Mure
 
 ---
 
