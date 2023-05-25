@@ -22,8 +22,8 @@ L’objectif étant d’apprendre à respirer efficacement, relâcher le corps e
 
 ---
 
-> Tarif : 10 euros/personne - Groupe de 4 enfants maximum à partir de 8 ans -
-Le mercredi de 16 h 15 à 17 h à la Rampe, chemin des Rivaux, Nantes en Rattier
+> Tarif : 15 euros/personne - Groupe de 4 enfants maximum à partir de 8 ans -
+Le mercredi de 9h à 10h au 46 grande rue, 38350 La Mure
 
 [Me contacter](../informations/contacts.md)
 
